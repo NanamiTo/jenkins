@@ -1,6 +1,3 @@
-
-
-
 public class 2min {
   public static void main(String[] args) {
      int num1 = 5;
