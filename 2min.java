@@ -1,4 +1,4 @@
-public class 2min {
+public class min2 {
   public static void main(String[] args) {
      int num1 = 5;
      int num2 = 7;
